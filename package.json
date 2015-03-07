@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mavin/wordpress-autop.git"
+    "url": "https://github.com/mavin/node-wordpress-autop.git"
   },
   "keywords": [
     "wordpress",
@@ -19,6 +19,6 @@
     "email": "npm@exstasis.net",
     "url": "http://hattori.me"
   },
-  "license": "GPLv2",
-  "homepage": "https://github.com/mavin/wordpress-autop"
+  "license": "GPL-2.0",
+  "homepage": "https://github.com/mavin/node-wordpress-autop"
 }
