@@ -20,8 +20,5 @@
     "url": "http://hattori.me"
   },
   "license": "GPLv2",
-  "bugs": {
-    "url": "https://github.com/mavin/wordpress-autop/issues"
-  },
   "homepage": "https://github.com/mavin/wordpress-autop"
 }
