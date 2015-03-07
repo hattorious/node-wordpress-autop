@@ -1,5 +1,5 @@
 # wordpress-autop
-Sometimes you need the wpautop function from WordPress because you’re working with WXR files in javascript.
+Sometimes you need the [wpautop](http://codex.wordpress.org/Function_Reference/wpautop) function from WordPress because you’re working with WXR files in javascript.
 
 Lifted shamelessly from [WordPress core](https://github.com/WordPress/WordPress/blob/master/wp-admin/js/editor.js).
 
