@@ -4,7 +4,7 @@
   "description": "Changes double line-breaks in WordPress posts into HTML paragraphs (<p>...</p>).",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "standard"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
     "url": "http://hattori.me"
   },
   "license": "GPL-2.0",
-  "homepage": "https://github.com/mavin/node-wordpress-autop"
+  "homepage": "https://github.com/mavin/node-wordpress-autop",
+  "devDependencies": {
+    "standard": "^3.0.0-alpha"
+  }
 }
